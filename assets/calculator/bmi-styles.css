@@ -1,0 +1,23 @@
+/* assets/calculator/bmi-styles.css */
+.bmi-calculator {
+    margin-top: 20px;
+}
+
+.bmi-calculator label,
+.bmi-calculator input,
+.bmi-calculator button {
+    margin-right: 10px;
+}
+
+.bmi-calculator button {
+    padding: 5px 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.bmi-calculator button:hover {
+    background-color: #0056b3;
+}
